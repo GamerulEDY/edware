@@ -1,40 +1,34 @@
 {
   "META": {
-    "repoName": "gamez4fun",
-    "repoIcon": "https://github.com/chryzts/images/blob/main/IMG_4735.jpeg"
+    "repoName": "edware",
+    "repoIcon": "https://github.com/GamerulEDY/edware/blob/main/EDY.jpg"
   },
   "Tweaked": [
     {
-      "name": "Rosiecord",
-      "version": "203",
-      "icon": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Icons/EnmityIcon60x60%402x.png",
-      "down": "https://github.com/acquitelol/rosiecord/releases/download/rosiecord_203/Rosiecord-203_GGSans-Font+Plumpy_Icons.ipa",
-      "dev": "acquitelol",
-      "category": "Tweaked Apps",
-      "description": "Enmity, but with custom icons",
-      "bundleID": "com.hammerandchisel.discord",
-      "appstore": "com.hammerandchisel.discord",
-      "enableBackup": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy.png",
-        "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy_Flowercord.png"
-      ]
+      "name": "NFCToolsPro_2.24",
+       "version": "2.24",
+       "icon": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/NFCToolsPro_2.24.png",
+       "down": "https:\/\/ipa.cypwn.xyz\/ipas\/NFCToolsPro_2.24.ipa",
+       "category": "Tweaked Apps",
+       "banner": "https:\/\/ipa.cypwn.xyz\/includes\/assets\/banner.png",
+       "description": "Pro unlocked with click and cancel method. Satella injected",
+       "bundleID": "NFCToolsPro_2.24",
+       "contact": {
+           "web": "https:\/\/ipa.cypwn.xyz",
+           "twitter": "https:\/\/twitter.com\/cypwnrepo"
+       },
+       "screenshots": [
+           "https:\/\/ipa.cypwn.xyz\/assets\/images\/ipalibrary.png"
+       ]
     },
     {
-      "name": "Enmity",
-      "version": "v2.2.6",
-      "down": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-      "dev": "Enmity Team",
-      "icon": "https://files.enmity.app/icon-altstore.png",
+      "name": "Instagram Rhino",
+      "version": "187.0",
+      "icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
+      "down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
       "category": "Tweaked Apps",
-      "description": "The power of addons, all in your hand.",
-      "bundleID": "com.hammerandchisel.discord",
-      "appstore": "com.hammerandchisel.discord",
-      "enableBackup": true,
-      "contact": {
-        "web": "https://enmity.app",
-        "twitter": "https://twitter.com/enmityapp"
-      }
+      "bundleID": "com.rhino.InstagramApp",
+      "appstore": "com.burbn.instagram"
     },
     {
       "name": "uYou+",
@@ -67,6 +61,38 @@
       "contact": {
         "web": "https://miro92.com",
         "twitter": "https://twitter.com/MiRO92"
+      }
+    },
+    {
+      "name": "Rosiecord",
+      "version": "203",
+      "icon": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Icons/EnmityIcon60x60%402x.png",
+      "down": "https://github.com/acquitelol/rosiecord/releases/download/rosiecord_203/Rosiecord-203_GGSans-Font+Plumpy_Icons.ipa",
+      "dev": "acquitelol",
+      "category": "Tweaked Apps",
+      "description": "Enmity, but with custom icons",
+      "bundleID": "com.hammerandchisel.discord",
+      "appstore": "com.hammerandchisel.discord",
+      "enableBackup": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy.png",
+        "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy_Flowercord.png"
+      ]
+    },
+    {
+      "name": "Enmity",
+      "version": "v2.2.6",
+      "down": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+      "dev": "Enmity Team",
+      "icon": "https://files.enmity.app/icon-altstore.png",
+      "category": "Tweaked Apps",
+      "description": "The power of addons, all in your hand.",
+      "bundleID": "com.hammerandchisel.discord",
+      "appstore": "com.hammerandchisel.discord",
+      "enableBackup": true,
+      "contact": {
+        "web": "https://enmity.app",
+        "twitter": "https://twitter.com/enmityapp"
       }
     }
   ],
